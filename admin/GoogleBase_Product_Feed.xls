@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				<o:DocumentProperties>
+				<o:LastAuthor>HitSpot</o:LastAuthor>
+				<o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				<o:Version>10.2625</o:Version>
+				</o:DocumentProperties>
+				<o:OfficeDocumentSettings>
+				<o:DownloadComponents/>
+				</o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				<x:ExcelWorkbook>
+				<x:ExcelWorksheets>
+				<x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					<x:Selected/>
+					<x:ProtectContents>False</x:ProtectContents>
+					<x:ProtectObjects>False</x:ProtectObjects>
+					<x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				</x:ExcelWorksheet>
+				</x:ExcelWorksheets>
+				<x:WindowHeight>10005</x:WindowHeight>
+				<x:WindowWidth>10005</x:WindowWidth>
+				<x:WindowTopX>120</x:WindowTopX>
+				<x:WindowTopY>135</x:WindowTopY>
+				<x:ProtectStructure>False</x:ProtectStructure>
+				<x:ProtectWindows>False</x:ProtectWindows>
+				</x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 ><b>Product Id</b></td><td class=xl24 width=64 ><b>Product Title</b></td><td class=xl24 width=64 ><b>Description</b></td><td class=xl24 width=64 ><b>Product Price</b></td><td class=xl24 width=64 ><b>Link</b></td><td class=xl24 width=64 ><b>Brand</b></td><td class=xl24 width=64 ><b>Image Link</b></td><td class=xl24 width=64 ><b>Weight</b></td></tr><tr><td class=xl24 width=64 >44</td><td class=xl24 width=64 >Dịch vụ tẩy lông hai tai cho Chó mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >200000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=44</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-134441khac4.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >43</td><td class=xl24 width=64 >Dịch vụ nhuộm trái tim trái đào cho chó mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >300000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=43</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-134343khac3.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >41</td><td class=xl24 width=64 >Dịch vụ cắt tạo kiểu (trái tim, trái đào...)</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >100000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=41</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-134126khac1.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >42</td><td class=xl24 width=64 >Dịch vụ nhuộm 4 chân cao 3cm cho chó mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >600000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=42</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-134234khac2.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >40</td><td class=xl24 width=64 >Dịch vụ phụ thu cho bé bị rối lông</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >50000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=40</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-134002khac.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >39</td><td class=xl24 width=64 >Combo VIP trọn gói Tắm - Cạo cho Chó</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >380000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=39</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-124652tam-cao-cho-vip.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >38</td><td class=xl24 width=64 >Combo VIP trọn gói Tắm - Cắt cho Chó</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >450000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=38</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-124513tam-cat-cho-vip.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >36</td><td class=xl24 width=64 >Combo trọn gói Cạo - Vệ sinh cho Chó</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >150000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=36</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-124131cao-vs-cho.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >37</td><td class=xl24 width=64 >Combo VIP trọn gói Tắm cho Chó</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >230000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=37</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-124337tam-cho-vip.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >35</td><td class=xl24 width=64 >Combo Tắm trọn gói cho Chó</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >150000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=35</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-123748tam-cho.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >34</td><td class=xl24 width=64 >Combo trọn gói Tắm - Cắt cho Chó</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >300000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=34</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-123550tam-cat-cho.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >32</td><td class=xl24 width=64 >Combo VIP trọn gói Tắm - Cắt cho Mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >430000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=32</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-115403tam_cat_meo_vip.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >33</td><td class=xl24 width=64 >Combo trọn gói Tắm - Cạo cho Chó</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >250000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=33</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-123240tam-cao-cho.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >31</td><td class=xl24 width=64 >Combo VIP trọn gói Tắm cho Mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >230000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=31</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-115029tam_meo_vip.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >30</td><td class=xl24 width=64 >Combo trọn gói Tắm cho Mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >150000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=30</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-114555tam_meo.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >28</td><td class=xl24 width=64 >Combo VIP trọn gói Tắm - Cạo cho Mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >450000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=28</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-114224tam_cao_meo_vip.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >29</td><td class=xl24 width=64 >Combo trọn gói Tắm - Cắt cho Mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >300000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=29</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-114418tam_cat_meo.jpg</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >25</td><td class=xl24 width=64 >Combo trọn gói tắm - cạo cho mèo</td><td class=xl24 width=64 >T&Ecirc;N SẢN PHẨM:&nbsp;Combo trọn g&oacute;i Tắm - Cạo cho M&egrave;oLƯU &Yacute;:&nbsp;M&egrave;o đi Spa cần ti&ecirc;m ph&ograve;ng bệnh đủ 2 mũi.</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=25</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-081221tam_goi_meo.jpg</td><td class=xl24 width=64 >2</td></tr><tr><td class=xl24 width=64 >27</td><td class=xl24 width=64 >Combo Cạo - Vệ sinh trọn gói cho Mèo</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >150000</td><td class=xl24 width=64 >localhost/?do=prodetail&action=showprod&id=27</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >localhost/images/products/thumb/2024-10-10-113251cao_vesinh_meo.jpg</td><td class=xl24 width=64 ></td></tr></table></body></html>
